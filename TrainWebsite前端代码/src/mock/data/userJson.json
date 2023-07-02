@@ -1,0 +1,51 @@
+[
+{
+  "username": "Zhou Baoju",
+  "email": "nb250@nb.com",
+  "phoneNum":"12345678900",
+  "id":"12345678",
+  "password": "nb250",
+  "balance": "13000"
+},
+{
+  "username": "Hao Jialin",
+  "email": "nb2@666.com",
+  "phoneNum":"12345678900",
+  "id": "23456543",
+  "password": "nb",
+  "balance": "10000"
+},
+{
+  
+  "username": "Su Yunhe",
+  "email": "nb3@666.com",
+  "phoneNum":"12345678900",
+  "id": "11111111",
+  "password": "nb",
+  "balance": "10000"
+},
+{
+  "username": "Xia Fanyu",
+  "email": "nb4@666.com",
+  "phoneNum":"12345678900",
+  "id": "55555555",
+  "password": "nb",
+  "balance": "10000"
+},
+{
+  "username": "Tao Yichen",
+  "email": "nb5@666.com",
+  "phoneNum":"12345678900",
+  "id": "33333333",
+  "password": "nb",
+  "balance": "10000"
+},
+{
+  "username": "Hu Juncheng",
+  "email": "sb@sbsbsb.com",
+  "phoneNum":"12345678900",
+  "id": "44444444",
+  "password": "dashabi",
+  "balance": "250"
+}
+]
